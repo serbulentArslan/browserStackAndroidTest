@@ -1,0 +1,17 @@
+userName: serblentarslan_Rm2za0
+accessKey: BmgSNqD3BrpW7S1rKxKx
+framework: testng
+app: E:\Projects\testng-appium-app-browserstack-sdk\testng-appium-app-browserstack-sdk\android\testng-examples\WikipediaSample.apk
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S23
+    platformVersion: 13.0
+  - platformName: android
+    deviceName: Samsung Galaxy S20 Plus
+    platformVersion: 10.0
+  - platformName: android
+    deviceName: Samsung Galaxy S20 Ultra
+    platformVersion: 10.0
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
